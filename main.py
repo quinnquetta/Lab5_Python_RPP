@@ -1,3 +1,4 @@
+# Это изменение из ОРИГИНАЛА
 import os
 import csv
 
