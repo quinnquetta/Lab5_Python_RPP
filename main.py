@@ -1,3 +1,4 @@
+# Это изменение из клона
 import os
 import csv
 
